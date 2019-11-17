@@ -1,0 +1,11 @@
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.deps.json
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.runtimeconfig.json
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.runtimeconfig.dev.json
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.dll
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.csprojAssemblyReference.cache
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.csproj.CoreCompileInputs.cache
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorAssemblyInfo.cache
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorAssemblyInfo.cs
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfoInputs.cache
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfo.cs
+C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorTargetAssemblyInfo.cache

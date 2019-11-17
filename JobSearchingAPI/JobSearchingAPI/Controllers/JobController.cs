@@ -11,6 +11,8 @@ using Microsoft.EntityFrameworkCore;
 namespace JobSearchingAPI.Controllers
 {
     [Route("api/[controller]")]
+
+    [ApiController]
     public class JobController : ControllerBase
     {
 
@@ -22,7 +24,7 @@ namespace JobSearchingAPI.Controllers
             if (_context.jobs.Count() == 0)
             {
                 _context.jobs.Add(new Job {  skillSet = "level 0", jobTitle ="waiter", jobSalary = "16$ per Hr", company ="popoys", WorkHours ="20 hr per week", location ="xxx" , jobDescription ="yyy" });
-                _context.jobs.Add(new Job { skillSet ="level c", jobTitle ="security", jobSalary = "17$ per Hr", company ="BMO", WorkHours ="21 hr per week", location ="xxx" , jobDescription ="yyy" });
+                _context.jobs.Add(new Job {  skillSet ="level c", jobTitle ="security", jobSalary = "17$ per Hr", company ="BMO", WorkHours ="21 hr per week", location ="xxx" , jobDescription ="yyy" });
                 _context.jobs.Add(new Job {  skillSet ="level c", jobTitle ="cleck", jobSalary = "18$ per Hr", company ="BMO", WorkHours ="15 hr per week", location ="xxx" , jobDescription ="yyy"});
                 _context.jobs.Add(new Job {  skillSet ="level 0", jobTitle ="waiter", jobSalary = "16$ per Hr", company ="jack", WorkHours ="19 hr per week", location ="xxx" , jobDescription ="yyy" });
                 _context.SaveChangesAsync();
@@ -38,11 +40,11 @@ namespace JobSearchingAPI.Controllers
 
         // GET api/<controller>/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Job>> GetJobById(int JobId)
+        public async Task<ActionResult<Job>> GetJobById(long id)
         {
-            var jobvar = await _context.jobs.FindAsync(JobId);
-            if (jobvar == null) return NotFound();
-            return jobvar;
+            var todoItem = await _context.jobs.FindAsync(id);
+            if (todoItem == null) return NotFound();
+            return todoItem;
         }
 
         // POST api/<controller>
@@ -57,23 +59,31 @@ namespace JobSearchingAPI.Controllers
 
         // PUT api/<controller>/5
         [HttpPut("{id}")]
-        public async Task<ActionResult> PutJob(int JobId, Job job)
+        public async Task<ActionResult> PutJob(long id, Job job)
         {
 
-            if (JobId != job.JobId) return BadRequest();
+
+            if (id != job.JobId) return BadRequest();
+
             _context.Entry(job).State = EntityState.Modified;
+
             await _context.SaveChangesAsync();
+
             return NoContent();
+
         }
 
         // DELETE api/<controller>/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult> DeleteJob(int JobId)
+        public async Task<ActionResult> DeleteJob(long id)
         {
-            var jobvar = await _context.jobs.FindAsync(JobId);
-            if (jobvar == null) return NotFound();
-            _context.jobs.Remove(jobvar);
+            var todoItem = _context.jobs.FindAsync(id);
+
+            if (todoItem is null) return NotFound();
+
+            _context.jobs.Remove(todoItem.Result);
             await _context.SaveChangesAsync();
+
             return NoContent();
         }
 

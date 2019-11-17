@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace JobSearchingAPI.Models
 {
     public class Job
-    {   public int JobId { get; set; }
+    {   public long JobId { get; set; }
         public string skillSet { get; set; }
         public string jobTitle { get; set; }
         public string jobSalary { get; set; }

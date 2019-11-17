@@ -11800,23 +11800,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\David\\.nuget\\packages\\": {},
+    "C:\\Users\\devad\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COM306PROJECT\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\JobSearchingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\devad\\OneDrive\\Desktop\\sem5\\cloud\\API lab project\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\JobSearchingAPI.csproj",
       "projectName": "JobSearchingAPI",
-      "projectPath": "C:\\COM306PROJECT\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\JobSearchingAPI.csproj",
-      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\COM306PROJECT\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\obj\\",
+      "projectPath": "C:\\Users\\devad\\OneDrive\\Desktop\\sem5\\cloud\\API lab project\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\JobSearchingAPI.csproj",
+      "packagesPath": "C:\\Users\\devad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devad\\OneDrive\\Desktop\\sem5\\cloud\\API lab project\\COMP306LabPorject\\JobSearchingAPI\\JobSearchingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

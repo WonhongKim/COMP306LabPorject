@@ -9,3 +9,17 @@ C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\net
 C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfoInputs.cache
 C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfo.cs
 C:\COM306PROJECT\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.deps.json
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.runtimeconfig.json
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.runtimeconfig.dev.json
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.dll
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\bin\Debug\netcoreapp2.1\JobSearchingAPI.pdb
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.csprojAssemblyReference.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.csproj.CoreCompileInputs.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorAssemblyInfo.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorAssemblyInfo.cs
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfoInputs.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.AssemblyInfo.cs
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.dll
+C:\Users\devad\OneDrive\Desktop\sem5\cloud\API lab project\COMP306LabPorject\JobSearchingAPI\JobSearchingAPI\obj\Debug\netcoreapp2.1\JobSearchingAPI.pdb

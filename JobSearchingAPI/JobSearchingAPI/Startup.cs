@@ -29,7 +29,13 @@ namespace JobSearchingAPI
         {
             services.AddDbContext<JobContext>(opt => opt.UseInMemoryDatabase("joblist"));
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);            
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Swashbuckle.AspNetCore.Swagger.Info { Title = "My first API", Version = "v1" });
+            });
+
+             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);       
+          //  services.AddMvc(opt => opt.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +51,16 @@ namespace JobSearchingAPI
             }
 
             app.UseHttpsRedirection();
+
+            //enable middleware to server generated Swagger as a JSON endpoint
+            app.UseSwagger();
+
+            //specify the Swagger Json endpoint
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My first API");
+            });
+
             app.UseMvc();
         }
     }

@@ -3621,11 +3621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COM306PROJECT\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj",
+      "projectUniqueName": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj",
       "projectName": "JobLibrary",
-      "projectPath": "C:\\COM306PROJECT\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj",
+      "projectPath": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\COM306PROJECT\\COMP306TeamProject\\JobLibrary\\obj\\",
+      "outputPath": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

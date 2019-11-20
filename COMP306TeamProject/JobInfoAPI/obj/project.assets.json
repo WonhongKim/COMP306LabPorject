@@ -11825,11 +11825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COM306PROJECT\\COMP306TeamProject\\JobInfoAPI\\JobInfoAPI.csproj",
+      "projectUniqueName": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobInfoAPI\\JobInfoAPI.csproj",
       "projectName": "JobInfoAPI",
-      "projectPath": "C:\\COM306PROJECT\\COMP306TeamProject\\JobInfoAPI\\JobInfoAPI.csproj",
+      "projectPath": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobInfoAPI\\JobInfoAPI.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\COM306PROJECT\\COMP306TeamProject\\JobInfoAPI\\obj\\",
+      "outputPath": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobInfoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11848,8 +11848,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\COM306PROJECT\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj": {
-              "projectPath": "C:\\COM306PROJECT\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj"
+            "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj": {
+              "projectPath": "C:\\COM306PROJECT\\COMP306LabPorject\\COMP306TeamProject\\JobLibrary\\JobLibrary.csproj"
             }
           }
         }

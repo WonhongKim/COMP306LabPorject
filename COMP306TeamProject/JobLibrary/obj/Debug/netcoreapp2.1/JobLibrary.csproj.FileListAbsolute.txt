@@ -1,0 +1,10 @@
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\bin\Debug\netcoreapp2.1\JobLibrary.deps.json
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\bin\Debug\netcoreapp2.1\JobLibrary.dll
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\obj\Debug\netcoreapp2.1\JobLibrary.csproj.CoreCompileInputs.cache
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\obj\Debug\netcoreapp2.1\JobLibrary.AssemblyInfoInputs.cache
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\obj\Debug\netcoreapp2.1\JobLibrary.AssemblyInfo.cs
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\bin\Debug\netcoreapp2.1\JobLibrary.runtimeconfig.json
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\bin\Debug\netcoreapp2.1\JobLibrary.runtimeconfig.dev.json
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\bin\Debug\netcoreapp2.1\JobLibrary.pdb
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\obj\Debug\netcoreapp2.1\JobLibrary.dll
+C:\COM306PROJECT\COMP306TeamProject\JobLibrary\obj\Debug\netcoreapp2.1\JobLibrary.pdb

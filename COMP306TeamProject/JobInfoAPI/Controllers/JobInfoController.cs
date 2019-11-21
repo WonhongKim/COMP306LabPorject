@@ -71,8 +71,7 @@ namespace JobInfoAPI.Controllers
             var createdNewJobToReturn = _mapper.Map<Job>(finalNewJob);
 
             return CreatedAtAction("GetNewJob", new { JobId = finalNewJob.JobId }, createdNewJobToReturn);
-        }     
-
+        }
 
     }
 }

@@ -72,7 +72,7 @@ namespace JobInfoAPI.Controllers
         }
 
         [HttpPut("{JobId}/jobrank/{id}")]
-        public async Task<ActionResult> UpdateJobRank(int JobId, int id, [FromBody] JobRankForUpdate jobrank)
+        public async Task<ActionResult> UpdateJobRank(int JobId, int id, [FromBody] JobRankForUpdateDto jobrank)
         {
             if (jobrank == null) return BadRequest();
 

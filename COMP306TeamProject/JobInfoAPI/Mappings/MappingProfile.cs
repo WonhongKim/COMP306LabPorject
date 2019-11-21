@@ -13,9 +13,12 @@ namespace JobInfoAPI.Mappings
         public MappingProfile()
         {
             CreateMap<Job, JobDto>();
+            CreateMap<Job, JobForUpdateDto>();
+            CreateMap<Job, JobForCreateDto>();
             CreateMap<JobRank, JobRankDto>();
             CreateMap<JobForCreateDto, Job>();
-            CreateMap<JobRankForUpdate, JobRank>();
+            CreateMap<JobRankForUpdateDto, JobRank>();
+            
         }
     }
 }
